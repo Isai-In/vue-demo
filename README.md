@@ -1,5 +1,7 @@
 # dagM8-demo
 
+## To run this project you have to install **node.js** and **npm** and then follow next steps:
+
 ## Project setup
 ```
 npm install
